@@ -31,6 +31,9 @@ run below commond to save model into local system
  
  ```http://localhost:5000/ ```
  
+ ![Screenshot (70)](https://user-images.githubusercontent.com/49331380/61172416-c8e0bc80-a5a1-11e9-954f-b4ba81ccbb35.png)
+
+ 
  
  
  
